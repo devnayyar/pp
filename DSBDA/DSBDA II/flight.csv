@@ -1,0 +1,20 @@
+,,,,,,
+1,Airline A,New York,Los Angeles,2023-05-16 08:00:00,2023-05-16 11:30:00,210
+2,Airline B,Chicago,Miami,2023-05-16 09:30:00,2023-05-16 13:15:00,225
+3,Airline C,San Francisco,Seattle,2023-05-16 12:45:00,2023-05-16 14:30:00,105
+4,Airline A,Los Angeles,New York,2023-05-16 14:00:00,2023-05-16 22:30:00,510
+5,Airline D,Miami,Dallas,2023-05-16 15:30:00,2023-05-16 18:15:00,165
+6,Airline B,Seattle,San Francisco,2023-05-16 18:45:00,2023-05-16 20:30:00,105
+7,Airline C,Dallas,Chicago,2023-05-16 21:00:00,2023-05-17 00:30:00,210
+8,Airline A,New York,Paris,2023-05-17 06:30:00,2023-05-17 15:00:00,570
+9,Airline B,Miami,London,2023-05-17 09:00:00,2023-05-17 17:45:00,525
+10,Airline C,Seattle,Tokyo,2023-05-17 11:15:00,2023-05-17 17:00:00,345
+11,Airline A,Los Angeles,Chicago,2023-05-17 13:30:00,2023-05-17 17:15:00,225
+12,Airline D,Miami,Denver,2023-05-17 16:00:00,2023-05-17 18:30:00,150
+13,Airline B,San Francisco,Seattle,2023-05-17 19:15:00,2023-05-17 21:00:00,105
+14,Airline C,Dallas,Miami,2023-05-17 21:30:00,2023-05-18 00:15:00,165
+15,Airline A,New York,Los Angeles,2023-05-18 06:00:00,2023-05-18 09:30:00,210
+16,Airline B,Chicago,Miami,2023-05-18 07:30:00,2023-05-18 11:15:00,225
+17,Airline C,San Francisco,Seattle,2023-05-18 10:45:00,2023-05-18 12:30:00,105
+18,Airline A,Los Angeles,New York,2023-05-18 12:00:00,2023-05-18 20:30:00,510
+19,Airline D,Miami,Dallas,2023-05-18 13:30:00,2023-05-18 16,
